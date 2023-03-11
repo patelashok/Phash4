@@ -1,0 +1,4 @@
+GIT bash & Git Hub  : https://git-scm.com/downloads
+VS code  				 : https://code.visualstudio.com/download
+Node JS 				 : https://nodejs.org/en/download/
+Post MAN Tool 		 : https://www.postman.com/downloads/
